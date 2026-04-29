@@ -32,6 +32,7 @@ There will be more of this, and these are very useful tools from the depths of t
 <strong>Youtube Video Downloader</strong>
 - [pl.loader.to](https://pl.loader.to/) - best, works in Poland (almost) always (1440p)
 - [cobalt.tools](https://cobalt.tools/) - new crazy tool, insta downloading
+- [Cyber Collector](https://t.me/cybercollectorbot) - Telegram bot, downloads from TikTok, Instagram Reels/Stories, YouTube Shorts, X/Twitter and Facebook. No watermarks, no signup
 
 <strong>Audio to subtitles (srt)</strong>
 - [turboscribe.ai](https://turboscribe.ai/dashboard) - free
